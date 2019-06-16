@@ -1,6 +1,6 @@
 # Projects
 |Project Name|Description|
-|---|---|---|
+|---|---|
 |[Boris Bikes]()|   |   
 |[Airport Challenge](https://github.com/tsankhalpara/airport_challenge)|   |   
 |[Oystercard](https://github.com/tsankhalpara/oystercard)|   |   
