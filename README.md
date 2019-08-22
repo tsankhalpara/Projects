@@ -8,7 +8,7 @@
 |[RPS Challenge](https://github.com/tsankhalpara/rps-challenge)| | Ruby, HTML |   
 |[Takeaway Challenge](https://github.com/tsankhalpara/takeaway-challenge)|   | Ruby |  
 |[Chitter Challenge](https://github.com/tsankhalpara/chitter-challenge)|   | Ruby, HTML |  
-|[Thermostat](https://github.com/tsankhalpara/thermostat)|   | JavaScript |   
+|[Thermostat](https://github.com/tsankhalpara/thermostat)| A responsive web app where users can set the temperature of their thermostat and also view the current temperature of cities around the world. This app incorporates a weather API. | JavaScript |   
 |[MakersBnB](https://github.com/tsankhalpara/MakersBnB)|   | JavaScript, HTML |  
 |[Bowling Challenge](https://github.com/tsankhalpara/bowling-challenge)|   | JavaScript, HTML, CSS |  
 |[Instagram Challenge](https://github.com/tsankhalpara/intagram-challenge)|   | Ruby, HTML, CSS |  
